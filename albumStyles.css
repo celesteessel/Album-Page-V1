@@ -1,0 +1,15 @@
+a:link {
+	  color: plum;
+	}
+
+	a:visited {
+		color:darkcyan;
+	}
+	a:hover {
+	 text-decoration: none;
+	 color:slateblue; 
+	 font-family: fantasy;
+    }
+    a:active {
+		font-weight:bold;
+    }
