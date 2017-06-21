@@ -1,4 +1,5 @@
 a:link {
+	text-decoration: none;
 	  color: plum;
 	}
 
@@ -6,8 +7,8 @@ a:link {
 		color:darkcyan;
 	}
 	a:hover {
-	 text-decoration: none;
-	 color:slateblue; 
+	 text-decoration: underline;
+	 background-color:pink; 
 	 font-family: fantasy;
     }
     a:active {
@@ -27,5 +28,11 @@ a:link {
 	height: 300px;
 }
 .names{
+	font-style: italic;
+}
+#tracks{
+background-color: lightcoral;
+}
+td{
 	font-style: italic;
 }
